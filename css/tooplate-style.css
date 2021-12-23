@@ -140,7 +140,7 @@ strong {
 }
 
 .animated-item:nth-child(3n+3) {
-  animation-delay: 4s;
+  animation-delay: 2s;
 }
 
 @keyframes BottomTotop {
